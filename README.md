@@ -11,3 +11,7 @@
 ```
 dd if=asm.bin of=sys.vhd bs=512 count=1 conv=notrunc
 ```
+
+
+## Intel® 64 and IA-32 Architectures Software Developer Manuals
+[Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.cn/content/www/cn/zh/developer/articles/technical/intel-sdm.html)  
