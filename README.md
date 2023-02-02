@@ -1,5 +1,5 @@
 # x86asmErrata
-《x86汇编语言：从实模式到保护模式》勘误表
+《x86汇编语言：从实模式到保护模式》 第一版 勘误表
 
 ## 作者网站
 [作者网站 http://www.lizhongc.com/](http://www.lizhongc.com/)  
