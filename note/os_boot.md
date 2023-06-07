@@ -71,6 +71,8 @@ swap 相关的内存管理
 [从零开始写 OS 内核 -](https://segmentfault.com/a/1190000040131294)  
 [使用 C 语言编写运行于16位实模式下的代码](https://kviccn.github.io/posts/%E4%BD%BF%E7%94%A8c%E8%AF%AD%E8%A8%80%E7%BC%96%E5%86%99%E8%BF%90%E8%A1%8C%E4%BA%8E16%E4%BD%8D%E5%AE%9E%E6%A8%A1%E5%BC%8F%E4%B8%8B%E7%9A%84%E4%BB%A3%E7%A0%81.html)   
 [实模式C语言MBR程序](https://i-m.dev/posts/20180124-234628.html)  
+[Writing a boot loader in Assembly and C - Part 1](https://www.codeproject.com/articles/664165/writing-a-boot-loader-in-assembly-and-c-part)  
+
 
 
 假设磁盘上保存了一个操作系统，如何加载这个系统呢？
